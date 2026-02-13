@@ -10,6 +10,6 @@ I use applications like Figma, Visual Studio, Visual Studio Code, and IntelliJ t
 
 I have worked on a couple of different projects but I reccomend looking at the repositories that I have pinned.
 
-My favorite project is my Oasis Prototype that I made with C# in using the WPF .NET framework.
+My favorite project is my [Oasis Prototype](https://github.com/Parkerjames02/Oasis-Prototype-WPF.git) that I made with C# in using the WPF .NET framework.
 
 I am currently working on the official refined version of Oasis and can't wait to develop more applications in the future.
