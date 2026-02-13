@@ -1,4 +1,4 @@
-## Hi! 👋
+# Hi! 👋
 
 I'm Parker, a computer science graduate in California🌴. I like to work on applications that further develop my skills and serves a purpose that favors me.
 
