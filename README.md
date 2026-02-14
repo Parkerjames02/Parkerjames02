@@ -6,7 +6,7 @@ I'm Parker, a computer science graduate in California🌴. I like to work on app
   
 - 🛠️ I use applications like Figma, Visual Studio, Visual Studio Code, and IntelliJ to build my applications.
   
-- 🗂️ I have worked on a couple of different projects but I recomend looking at the repositories that I have pinned.
+- 🗂️ I have worked on a couple of different projects but I reccomend looking at the repositories that I have pinned.
   
 - ⭐ My favorite project is my [Oasis Prototype](https://github.com/Parkerjames02/Oasis-Prototype-WPF.git) that I made with C# in using the WPF .NET framework.
   
