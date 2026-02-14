@@ -2,7 +2,7 @@
 
 I'm Parker, a computer science graduate in California🌴. I like to work on applications that further develop my skills and serves a purpose that favors me.
 
-- </> I like to primarily use programming languages like C#, Java, and HTML but I use many others.
+- </> I like to primarily use programming languages like C#, Java, Python, and HTML but I occasionally use others.
   
 - 🛠️ I use applications like Figma, Visual Studio, Visual Studio Code, and IntelliJ to build my applications.
   
