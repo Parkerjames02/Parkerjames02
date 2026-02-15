@@ -1,6 +1,6 @@
 # 🖥️ Parker Haynie 
 
-Hi!👋 I'm Parker, a computer science graduate in California🌴. I like to work on applications that further develop my skills and serves a purpose that favors me. I have worked on a couple of different projects🗂️ but I reccomend looking at the repositories that I have pinned. My favorite project⭐ is my [Oasis Prototype](https://github.com/Parkerjames02/Oasis-Prototype-WPF.git)🏝️ that I made with C# in using the WPF .NET framework. I am currently working👷 on the official refined version of Oasis and can't wait to develop more applications in the future. <br/>
+Hi!👋 I'm Parker, a computer science graduate in California🌴. I like to work on applications that further develop my skills and serves a purpose that favors me. I have worked on a couple of different projects🗂️ but I recommend looking at the repositories that I have pinned. My favorite project⭐ is my [Oasis Prototype](https://github.com/Parkerjames02/Oasis-Prototype-WPF.git)🏝️ that I made with C# in using the WPF .NET framework. I am currently working👷 on the official refined version of Oasis and can't wait to develop more applications in the future. <br/>
 
 ---
 ### </> Languages
